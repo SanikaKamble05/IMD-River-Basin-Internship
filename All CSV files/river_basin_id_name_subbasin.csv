@@ -1,0 +1,209 @@
+ID,basin_name,sub_basin_name
+1001,Barak,Dhalai till Border
+1002,Gumti,Gumti             
+1003,Barak,Haora             
+1004,Barak,Khowai            
+1005,Barak,Manu              
+2006,Banas,Banas B           
+2007,Banas,Banas D           
+2008,Mahi,Lower Mahi        
+2009,Narmada,Lower Narmada     
+2010,Tapi,LowerTapi         
+2011,Sabarmati,Sabarmati B       
+2012,Sabarmati,Sabarmati C       
+2013,Sabarmati,Sabarmati D       
+2014,Shetrunji,Shetrunji         
+,,
+3015,Pennar,Cheyyeru          
+3016,Pennar,Kunderu           
+3017,Pennar,Lower Pennar      
+3018,Pennar,Papagni           
+3019,Pennar,Sagileru          
+3020,Pennar,Upper Pennar      
+4021,Ajoy,Ajoy              
+4022,Kangsabati,Kangsabati        
+4023,Mayurakshi,Mayurakshi        
+5024,Cauvery,Arkavathi         
+,,
+5026,Cauvery,Cauvery till Suvar
+5027,Cauvery,Cauvery till T. Na
+5028,Krishna,Ghataprabha       
+,,
+5030,Krishna,Hagari or Vedavati
+5031,Cauvery,Harangi           
+5032,Cauvery,Hemavathy         
+5033,Cauvery,Kabini till Cauver
+,,
+,,
+5036,Krishna,Lower Bhima       
+5037,Krishna,Lower Tungabhadra 
+5038,Krishna,Middle Krishna    
+5039,Krishna,Middle Tungabhadra
+5040,Cauvery,Muthenkara to Kabi
+,,
+5042,Cauvery,Shimsha till Cauve
+,,
+,,
+5045,Cauvery,Upper Cauvery     
+5046,Krishna,Upper Tungabhadra 
+6047,Betwa,Betwa             
+6048,Ganga,Chhatnag to Mirzap
+6049,Ken,Ken/Urmal         
+6050,Yamuna,Kunwari           
+6051,Narmada,Middle Narmada    
+6052,Narmada,Narmada Hoshangaba
+6053,Yamuna,Sind              
+6054,Chambal,Upper Chambal     
+6055,Narmada,Upper Narmada     
+6056,Ganga,Upper Sone        
+7057,Baitarni,Baitarni          
+7058,Burhabalang,Burhabalang       
+7059,Baitarni,Lower Brahmani    
+7060,Mahanadi,Lower Mahanadi    
+7061,Nagavali,Nagavali          
+7062,Rushikulya,Rushikulya        
+7063,Godavari,Sabari            
+7064,Subarnarekha,Subarnarekha      
+7065,Baitarni,Upper Brahmani    
+7066,Vamsadhara,Vamsadhara        
+8067,Ravi,Beas in Punjab    
+8068,Ghagger,Ghagger after Moon
+8069,Indus,Ghagger till Moona
+8070,Indus,Ravi & Others in P
+8071,Indus,Sutlej in Punjab  
+9072,Cauvery,Amravathi and Koda
+9073,Cauvery,Amravathy         
+9074,Cauvery,Bhavani till Bhava
+9075,Cauvery,Cauvery Delta     
+9076,Cauvery,Cauvery till Amrav
+9077,Cauvery,Cauvery till Bhava
+9078,Cauvery,Cauvery till Sarab
+9079,Cauvery,Kodaganar         
+,,
+9081,Cauvery,Lower Cauvery     
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+10089,Alaknanda,Alaknanda         
+10090,Bhagirathi,Bhagirathi        
+10091,Sharda,Sharda            
+10092,Ganga,Upper Ganga       
+10093,Yamuna,Yamuna upto Hathni
+11094,Barakar,Barakar East      
+11095,Barakar,Barakar West      
+11096,Damodar,Damodar East      
+11097,Damodar,Damodar West      
+11098,Damodar,Lower Valley South
+11099,Damodar,Lower Valley West 
+12100,Brahmaputra,Aie and Manas     
+12101,Barak,Badarpurghat      
+12102,Barak,Barak at Silchar  
+12103,Brahmaputra,Beki              
+12104,Brahmaputra,Brahmaputra at Dhu
+12105,Brahmaputra,Brahmaputra at Goa
+12106,Brahmaputra,Brahmaputra at Guw
+12107,Brahmaputra,Brahmaputra at Nea
+12108,Brahmaputra,Brahmaputra at Tez
+12109,Brahmaputra,Buridihing at Khow
+12110,Brahmaputra,Dhansiri at Golagh
+12111,Brahmaputra,Dhansiri at Rly Br
+12112,Brahmaputra,East Bhutan       
+12113,Brahmaputra,Jiabharali at NT r
+12114,Brahmaputra,Kapili at Kampur  
+12115,Brahmaputra,Manas/Beki at NH X
+12116,Barak,Myntdu            
+12119,Barak,Thoubal           
+13120,Godavari,Lower Godavari    
+13121,Krishna,Lower Krishna     
+13122,Godavari,Maneru            
+13123,Godavari,Middle Godavari   
+13124,Krishna,Munneru           
+13125,Krishna,Musi              
+13126,Krishna,Palleru           
+14128,Brahmaputra,Brahmaputra at Dib
+14129,Brahmaputra,Dehung at Passigha
+14130,Brahmaputra,Lohit at Dholla   
+14131,Brahmaputra,Subansiri at Badat
+15132,Banas,Banas A           
+15133,Banas,Banas C           
+15134,Yamuna,Gambhir           
+15135,Chambal,Lower Chambal     
+,,
+15137,Mahi,Middle Mahi       
+15138,Sabarmati,Sabarmati A       
+,,
+15140,Mahi,Upper Mahi        
+16141,Brahmaputra,Jaldhaka in WB    
+16142,Brahmaputra,Jhaldhaka in Bhuta
+16143,Brahmaputra,Lower Teesta      
+16146,Brahmaputra,Torsa             
+16148,Brahmaputra,Upper Teesta      
+17149,Indus,Dah               
+17151,Indus,Nimmo             
+18153,Ganga,Ganga Narora to Ph
+18154,Ganga,Ganga Phaphamau to
+18155,Ganga,Ghaghra Nepal     
+18156,Ganga,Gomti             
+18157,Ghaghara,Lower Ghaghra     
+18158,Ghaghara,Middle Ghaghra    
+18159,Ramganga,Ramganga          
+18160,Rapti,Rapti             
+18162,Ganga,Sai               
+18163,Ghaghara,Upper Ghaghara    
+18164,Yamuna,Yamuna Mathura to 
+19165,Damanganga,Damanganga        
+19166,Godavari,Manjra            
+19167,Tapi,Middle Tapi       
+19168,Godavari,Pravara           
+19169,Godavari,Purna             
+19170,Krishna,Upper Bhima       
+19171,Godavari,Upper Godavari    
+19172,Krishna,Upper Krishna     
+,,
+20174,Godavari,Penganga          
+20175,Tapi,Upper Tapi        
+20176,Godavari,Wainganga & Pranhi
+20177,Godavari,Wardha            
+21178,Sahibi,Sahibi            
+21179,Yamuna,Yamuna upto Mathur
+22180,Ganga,Bagmati Adhwara   
+22181,Ganga,Bagmati Adhwara Ne
+22183,Ganga,Chandan           
+22184,Ganga,Gandak            
+22186,Ganga,Kiul              
+22187,Ganga,Kosi              
+22188,Ganga,Kosi Nepal        
+22189,Ganga,Mahananda         
+22190,Ganga,Mahananda Nepal   
+22191,Ganga,North Koel        
+22192,Ganga,Punpun/Dhab Nadi  
+22193,Ganga,Sone              
+23194,Godavari,Indravati         
+23195,Ganga,Kanhar            
+23196,Mahanadi,Upper Mahanadi    
+24197,Beas,Beas              
+24198,Indus,Chenab till Gulabg
+24199,Satluj,Lower Satluj      
+24200,Ravi,Ravi till Ranjitsa
+25202,Indus,Chenab Gulabgarh t
+25203,Jhelum,Lidder            
+25204,Jhelum,Lower Jhelum      
+25205,Jhelum,Middle Jhelum     
+25206,Indus,Ravi downstream   
+25207,Indus,Tawi till Sidra   
+25208,Jhelum,Upper Jhelum      
+26209,Achankoil,Achankoil         
+26210,Bharathapuzha,Bharathapuzha     
+26211,Chalakudi,Chalakudi         
+26212,Cauvery,Kabini till Muthen
+,,
+26214,Periyar,Lower Periyar     
+26215,Meenachil,Meenachil         
+26216,Pamba,Pamba             
+26217,Periyar,Periyar           
+26218,Periyar,Upper Periyar     
+26219,Periyar,Idamalayar        
