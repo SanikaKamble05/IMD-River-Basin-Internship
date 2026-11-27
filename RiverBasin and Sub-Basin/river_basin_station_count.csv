@@ -1,0 +1,221 @@
+ID,BASIN,SUBBASIN,#stn
+000009084,EFR betweeb Pennar and Kanyakumari,Tambraparani,18.0
+000026209,Achankoil,Achankoil,4.0
+000026213,WFR from Tadri to Kanyakumari,Kakki,
+000026216,Pamba,Pamba,4.0
+000026217,Periyar,Periyar,1.0
+000026218,Periyar,Upper Periyar,4.0
+000009086,East Flowing Rivers,Upper Vaigai,10.0
+000026215,Meenachil,Meenachil,6.0
+000026214,Periyar,Lower Periyar,4.0
+000026219,Periyar,Idamalayar,1.0
+000009073,Cauvery,Amravathy,
+000026211,Chalakudi,Chalakudi,5.0
+000009072,Cauvery,Amravathi and Kodaganar,12.0
+000026210,Bharathapuzha,Bharathapuzha,13.0
+000009074,Cauvery,Bhavani till Bhavani dam,15.0
+000009076,Cauvery,Cauvery till Amravathi Confluence,21.0
+000009077,Cauvery,Cauvery till Bhavani Confluence,9.0
+000005040,Cauvery,Muthenkara to Kabini Dam,
+000005033,Cauvery,Kabini till Cauvery Confluence,11.0
+000005026,Cauvery,Cauvery till Suvarnavathi Confluence,6.0
+000009083,East Flowing Rivers,Lower Vaigai,24.0
+000009079,Cauvery,Kodaganar,5.0
+000009075,Cauvery,Cauvery Delta,30.0
+000009081,Cauvery,Lower Cauvery,51.0
+000009088,East Flowing Rivers,Vellar,26.0
+000009082,East Flowing Rivers,Lower South Pennar,6.0
+000009078,Cauvery,Cauvery till Sarabanga Confluence,11.0
+000009087,EFR betweeb Pennar and Kanyakumari,Varahanadhi,1.0
+000009085,East Flowing Rivers,Upper South Pennar,17.0
+000005029,East Flowing Rivers,Gummanur,14.0
+000026212,Cauvery,Kabini till Muthenkara,2.0
+000005031,Cauvery,Harangi,3.0
+000005032,Cauvery,Hemavathy,9.0
+000005046,Krishna,Upper Tungabhadra,22.0
+000005044,West Flowing River Tadri to Kanyakumari,Shravati till Lingamanakki,2.0
+000005043,West Flowing River Tadri to Kanyakumari,Shravati downstream of Lingamanakki,3.0
+000005039,Krishna,Middle Tungabhadra,55.0
+000005034,WFR from Tapi to Tadri,Kali downstream of Supa dam,2.0
+000005041,West Flowing River Tapi to Tadri,Ponda,3.0
+000005035,WFR from Tapi to Tadri,Kali till Supa,4.0
+000005027,Cauvery,Cauvery till T. Narsipur,4.0
+000005045,Cauvery,Upper Cauvery,24.0
+000005024,Cauvery,Arkavathi,10.0
+000005042,Cauvery,Shimsha till Cauvery Confluence,19.0
+000005030,Krishna,Hagari or Vedavati,42.0
+000005037,Krishna,Lower Tungabhadra,38.0
+000005036,Krishna,Lower Bhima,45.0
+000019166,Godavari,Manjra,78.0
+000019169,Godavari,Purna,20.0
+000020175,Tapi,Upper Tapi,29.0
+000005025,WFR from Tapi to Tadri,Benohalla,26.0
+000005028,Krishna,Ghataprabha,18.0
+000005038,Krishna,Middle Krishna,34.0
+000019172,Krishna,Upper Krishna,29.0
+000019170,Krishna,Upper Bhima,45.0
+000019168,Godavari,Pravara,2.0
+000019171,Godavari,Upper Godavari,45.0
+000019173,West Flowing River Tapi to Tadri,Vaitarna,3.0
+000019165,Damanganga,Damanganga,10.0
+000019167,Tapi,Middle Tapi,39.0
+000013124,Krishna,Munneru,30.0
+000013122,Godavari,Maneru,45.0
+000013123,Godavari,Middle Godavari,46.0
+000020174,Godavari,Penganga,25.0
+000020177,Godavari,Wardha,32.0
+000020176,Godavari,Wainganga & Pranhita,62.0
+000006051,Narmada,Middle Narmada,
+000006047,Betwa,Betwa,13.0
+000006049,Ken,Ken/Urmal,2.0
+000006053,Yamuna,Sind,1.0
+000002010,Tapi,LowerTapi,13.0
+000002014,Shetrunji,Shetrunji,14.0
+000002009,Narmada,Lower Narmada,27.0
+000002015,Bhadar Dam,Bhadar Dam,3.0
+000002008,Mahi,Lower Mahi,19.0
+000002013,Sabarmati,Sabarmati D,30.0
+000015137,Mahi,Middle Mahi,21.0
+000006054,Chambal,Upper Chambal,3.0
+000015140,Mahi,Upper Mahi,21.0
+000002012,Sabarmati,Sabarmati C,11.0
+000006052,Narmada,Narmada Hoshangabad to Sardar Sarovar,1.0
+000015135,Chambal,Lower Chambal,130.0
+000015134,Yamuna,Gambhir,59.0
+000021178,Sahibi,Sahibi,47.0
+000008069,Indus,Ghagger till Moonak,41.0
+000008067,Ravi,Beas in Punjab,16.0
+000024197,Beas,Beas,38.0
+000024200,Ravi,Ravi till Ranjitsagar,11.0
+000024198,Indus,Chenab till Gulabgarh,5.0
+000025207,Indus,Tawi till Sidra,3.0
+000002007,Banas,Banas D,5.0
+000002011,Sabarmati,Sabarmati B,4.0
+000002006,Banas,Banas B,2.0
+000015138,Sabarmati,Sabarmati A,3.0
+000015133,Banas,Banas C,2.0
+000015132,Banas,Banas A,3.0
+000015139,,Sukri,11.0
+000015136,WFR of Kutch and Saurashtra including Luni,Luni,43.0
+000008068,Ghagger,Ghagger after Moonak,26.0
+000008071,Indus,Sutlej in Punjab,74.0
+000009080,East Flowing Rivers,Korttalaiyar,20.0
+000003015,Pennar,Cheyyeru,12.0
+000003018,Pennar,Papagni,9.0
+000003020,Pennar,Upper Pennar,44.0
+000003017,Pennar,Lower Pennar,4.0
+000003019,Pennar,Sagileru,4.0
+000003016,Pennar,Kunderu,11.0
+000013121,Krishna,Lower Krishna,73.0
+000013125,Krishna,Musi,36.0
+000013126,Krishna,Palleru,8.0
+000013120,Godavari,Lower Godavari,34.0
+000007063,Godavari,Sabari,18.0
+000007061,Nagavali,Nagavali,20.0
+000007066,Vamsadhara,Vamsadhara,20.0
+000023194,Godavari,Indravati,17.0
+000007062,Rushikulya,Rushikulya,19.0
+000007060,Mahanadi,Lower Mahanadi,126.0
+000007059,Baitarni,Lower Brahmani,28.0
+000007057,Baitarni,Baitarni,30.0
+000023196,Mahanadi,Upper Mahanadi,22.0
+000007058,Burhabalang,Burhabalang,15.0
+000007065,Baitarni,Upper Brahmani,39.0
+000006055,Narmada,Upper Narmada,
+000007064,Subarnarekha,Subarnarekha,33.0
+000004022,Kangsabati,Kangsabati,22.0
+000006056,Ganga,Upper Sone,2.0
+000023195,Ganga,Kanhar,2.0
+000011096,Damodar,Damodar East,18.0
+000022191,Ganga,North Koel,13.0
+000011097,Damodar,Damodar West,10.0
+000011098,Damodar,Lower Valley South,7.0
+000011099,Damodar,Lower Valley West,5.0
+000001002,Gumti,Gumti,5.0
+000004021,Ajoy,Ajoy,14.0
+000001003,Barak,Haora,1.0
+000004023,Mayurakshi,Mayurakshi,18.0
+000001004,Barak,Khowai,2.0
+000001001,Barak,Dhalai till Border,3.0
+000001005,Barak,Manu,3.0
+000012101,Barak,Badarpurghat,13.0
+000011094,Barakar,Barakar East,6.0
+000011095,Barakar,Barakar West,8.0
+000006048,Ganga,Chhatnag to Mirzapur,5.0
+000022186,Ganga,Kiul,86.0
+000022192,Ganga,Punpun/Dhab Nadi,50.0
+000022193,Ganga,Sone,22.0
+000022183,Ganga,Chandan,39.0
+000018154,Ganga,Ganga Phaphamau to Ballia,65.0
+000022187,Ganga,Kosi,66.0
+000022180,Ganga,Bagmati Adhwara,41.0
+000012102,Barak,Barak at Silchar,15.0
+000012119,Barak,Thoubal,1.0
+000012116,Barak,Myntdu,1.0
+000022189,Ganga,Mahananda,41.0
+000012114,Brahmaputra,Kapili at Kampur,8.0
+000012110,Brahmaputra,Dhansiri at Golaghat,12.0
+000012105,Brahmaputra,Brahmaputra at Goalpara,13.0
+000012104,Brahmaputra,Brahmaputra at Dhubri,12.0
+000012117,Brahmaputra,Sankosh,2.0
+000016146,Brahmaputra,Torsa,12.0
+000016144,Brahmaputra,Raidak,1.0
+000012106,Brahmaputra,Brahmaputra at Guwahati,15.0
+000016141,Brahmaputra,Jaldhaka in WB,10.0
+000012115,Brahmaputra,Manas/Beki at NH Xing,11.0
+000022190,Ganga,Mahananda Nepal,
+000016143,Brahmaputra,Lower Teesta,13.0
+000016142,Brahmaputra,Jhaldhaka in Bhutan,
+000012108,Brahmaputra,Brahmaputra at Tezpur,9.0
+000012111,Brahmaputra,Dhansiri at Rly Bridge,4.0
+000012100,Brahmaputra,Aie and Manas,
+000022184,Ganga,Gandak,118.0
+000018162,Ganga,Sai,17.0
+000018157,Ghaghara,Lower Ghaghra,9.0
+000018156,Ganga,Gomti,25.0
+000018160,Rapti,Rapti,28.0
+000022182,Ganga,Burhi Gandak Nepal,
+000022181,Ganga,Bagmati Adhwara Nepal,
+000018158,Ghaghara,Middle Ghaghra,15.0
+000022188,Ganga,Kosi Nepal,
+000018161,Ganga,Rapti Nepal,
+000012112,Brahmaputra,East Bhutan,
+000012107,Brahmaputra,Brahmaputra at Neamatighat,12.0
+000016147,Brahmaputra,Torsa in Bhutan,
+000016145,Brahmaputra,Sankosh Raidak and Others in Bhutan,
+000016148,Brahmaputra,Upper Teesta,32.0
+000012113,Brahmaputra,Jiabharali at NT road Xing,6.0
+000012109,Brahmaputra,Buridihing at Khowang,10.0
+000012103,Brahmaputra,Beki,
+000014131,Brahmaputra,Subansiri at Badatighat,14.0
+000014130,Brahmaputra,Lohit at Dholla,7.0
+000006050,Yamuna,Kunwari,
+000018164,Yamuna,Yamuna Mathura to Naini,52.0
+000018153,Ganga,Ganga Narora to Phaphamau,51.0
+000018159,Ramganga,Ramganga,49.0
+000021179,Yamuna,Yamuna upto Mathura,52.0
+000010091,Sharda,Sharda,14.0
+000010092,Ganga,Upper Ganga,16.0
+000010089,Alaknanda,Alaknanda,10.0
+000010090,Bhagirathi,Bhagirathi,8.0
+000010093,Yamuna,Yamuna upto Hathnikund,26.0
+000012118,Brahmaputra,Subansiri at China,
+000014128,Brahmaputra,Brahmaputra at Dibrugarh,10.0
+000014129,Brahmaputra,Dehung at Passighat,6.0
+000014127,Brahmaputra,Brahmaputra at China,
+000018163,Ghaghara,Upper Ghaghara,2.0
+000022185,Ganga,Gandak Nepal,
+000018155,Ganga,Ghaghra Nepal,
+000024201,Satluj,Upper Satluj,
+000024199,Satluj,Lower Satluj,46.0
+000017152,Indus,Upshi Road Bridge,
+000017151,Indus,Nimmo,2.0
+000017150,Indus,Khalsi,
+000008070,Indus,Ravi & Others in Punjab,10.0
+000025206,Indus,Ravi downstream,6.0
+000025205,Jhelum,Middle Jhelum,4.0
+000025204,Jhelum,Lower Jhelum,4.0
+000025202,Indus,Chenab Gulabgarh to Salal dam,6.0
+000025208,Jhelum,Upper Jhelum,3.0
+000025203,Jhelum,Lidder,2.0
+000017149,Indus,Dah,
